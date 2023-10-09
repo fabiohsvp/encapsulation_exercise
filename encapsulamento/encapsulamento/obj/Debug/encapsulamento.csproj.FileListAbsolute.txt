@@ -1,0 +1,7 @@
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\bin\Debug\encapsulamento.exe.config
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\bin\Debug\encapsulamento.exe
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\bin\Debug\encapsulamento.pdb
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\obj\Debug\encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\obj\Debug\encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\obj\Debug\encapsulamento.exe
+C:\Users\Alpaca\Desktop\backup\Pastas\Python\encapsulamento\encapsulamento\obj\Debug\encapsulamento.pdb
